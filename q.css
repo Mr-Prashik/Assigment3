@@ -1,0 +1,15 @@
+img{
+    margin: left;
+    border-radius: 200%;
+    height: 200px;
+width:"200"
+}
+button{
+    height: 100px;
+    width: 150px;
+    align-items: center;
+}
+body{
+            
+    background-color: wheat;
+}
